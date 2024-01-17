@@ -1,0 +1,1 @@
+This work is initially the result of a challenge to implement the math explained here : [Déterminer tous les diviseurs d'un nombre par décomposition](https://youtu.be/k0rhj8fwdjs), you can learn more about the subject here : [Integer factorization](https://en.wikipedia.org/wiki/Integer_factorization)
